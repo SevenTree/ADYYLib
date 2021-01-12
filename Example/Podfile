@@ -1,0 +1,13 @@
+use_frameworks!
+
+platform :ios, '9.0'
+
+target 'ADYYLib_Example' do
+  pod 'ADYYLib', :path => '../'
+
+  target 'ADYYLib_Tests' do
+    inherit! :search_paths
+
+    
+  end
+end

@@ -1,0 +1,27 @@
+PODS:
+  - ADYYLib (0.1.0):
+    - Masonry
+    - MJRefresh
+  - Masonry (1.1.0)
+  - MJRefresh (3.5.0)
+
+DEPENDENCIES:
+  - ADYYLib (from `../`)
+
+SPEC REPOS:
+  trunk:
+    - Masonry
+    - MJRefresh
+
+EXTERNAL SOURCES:
+  ADYYLib:
+    :path: "../"
+
+SPEC CHECKSUMS:
+  ADYYLib: f8adad198c361a1b3375949e1210391233b3564f
+  Masonry: 678fab65091a9290e40e2832a55e7ab731aad201
+  MJRefresh: 6afc955813966afb08305477dd7a0d9ad5e79a16
+
+PODFILE CHECKSUM: b43a62de63db06ab563604fb225e6c52bddcb42f
+
+COCOAPODS: 1.10.1

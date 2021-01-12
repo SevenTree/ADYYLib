@@ -1,0 +1,6 @@
+framework module ADYYLib {
+  umbrella header "ADYYLib-umbrella.h"
+
+  export *
+  module * { export * }
+}
